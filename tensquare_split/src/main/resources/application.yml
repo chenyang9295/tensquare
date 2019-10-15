@@ -1,0 +1,9 @@
+server:
+  port: 9006
+spring:
+  data:
+    mongodb:
+      database: splitdb
+      host: 192.168.199.129
+  application:
+    name: tensquare-split
